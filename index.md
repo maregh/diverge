@@ -1,7 +1,5 @@
 ---
 title: Welcome
-title2: About
-title3: Team
 ---
 yay
 
