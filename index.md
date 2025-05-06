@@ -3,6 +3,10 @@ title: Welcome to my blog
 ---
 yay
 
+---
+title: About
+---
+
 <html>
 <head>
 <title>My GitHub Page</title>
