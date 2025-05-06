@@ -1,6 +1,7 @@
 ---
 Title: Resources
 ---
+
 The following is a compilation of all resources offered by other parties, organizations and more which we have compiled for easy accessibility. Make sure to join the discord to see the full list of resources promoted by Diverge! If you are the owner or representative of these resources, please contact diverge@dal.ca for removal.
 
 ## Partners
