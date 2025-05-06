@@ -20,8 +20,6 @@ Favourite Food : Dr Pepper
 
 Program : Nursing
 
-Untitled design (5).png
-
 
 Joshua Phonchareon - Finance
 
