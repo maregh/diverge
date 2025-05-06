@@ -9,21 +9,21 @@ Literary Magazine publishing pieces by neurodivergent creatives about their expe
 
 
 ## Grants & Bursaries
-#DSU Accessibility Grant
+# DSU Accessibility Grant
 Offered by application, up to $1000 per semester possible for disabled students.
 
-#Disability Awards (Scholarship Library)
+# Disability Awards (Scholarship Library)
 A library of scholarships for a range of disabilities affecting education. Pros: easy to navigate UI and large selection!
 
 
-##Education & Learning
-#Notetaker Apps: Spiik and Aiko
+## Education & Learning
+# Notetaker Apps: Spiik and Aiko
 Spiik and Aiko have the capability to convert audio and video recordings (yes that means lectures) into text! Great for accessible note-taking.
 
 
-##Organizations
-#Young Caregivers Association
+## Organizations
+# Young Caregivers Association
 .
 
-#Autism NS
+# Autism NS
 .
