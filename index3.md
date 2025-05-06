@@ -1,6 +1,7 @@
 ---
 Title: Team
 ---
+
 About the team
 
 Maria Hamlin - Founder & President
