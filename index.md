@@ -1,11 +1,9 @@
 ---
 title: Welcome
+title2: About
 ---
 yay
 
----
-title: About
----
 
 <html>
 <head>
