@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 yay
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>My GitHub Page</title>
